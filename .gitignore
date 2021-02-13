@@ -1,0 +1,5 @@
+/.idea/
+/xls/test.xlsx
+/xls/test.csv
+/target
+xlsToCsv2.iml
